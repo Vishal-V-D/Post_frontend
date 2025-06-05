@@ -26,7 +26,7 @@ import GeneratedContentOverview from './components/GeneratedContentOverview'; //
 const App = () => {
   // Define the backend URL here as a single variable
   // IMPORTANT: Remember to update this with your active ngrok URL or deployment URL!
-  const BACKEND_URL = "https://0caf-35-226-52-255.ngrok-free.app"; // Your provided ngrok URL
+  const BACKEND_URL = "https://4f27-35-226-52-255.ngrok-free.app"; // Your provided ngrok URL
 
   // State variables for inputs, transcription, generated content, and UI states
   const [audioFile, setAudioFile] = useState(null);
